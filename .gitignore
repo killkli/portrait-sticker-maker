@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.tmp
+_work/
+output/
+output_stickers/
+*.log
+.DS_Store
+Thumbs.db
